@@ -4,8 +4,8 @@
 
 ### ᖴOᒪᒪOᗯ 
 
-- [Twitter](https://www.twitter.com/ishaileshmisra)  
-- [Instagram](https://www.instagram.com/ishaileshmishra)
+- [Twitter](https://www.twitter.com/apptechsolutio1)  
+- [facebook](https://www.facebook.com/apptechsolutions88)
 
 ## SᑕᖇEEᑎSᕼOTS
 
@@ -18,25 +18,25 @@
 <b>Iᖴ YOᑌ ᒪIKEᗪ IT, I'ᗰ SᑌᖇE YOᑌ ᗩᖇE GOIᑎG TO ᒪIKE TᕼESE ᗩᒪSO. ᐯISIT ᗷEᒪOᗯ ᒪIᑎKS</b>
 
 
-[flutter-feed-app](https://github.com/ishaileshmishra/flutter-feed-app)
+[flutter-feed-app](https://github.com/app-techsolutions/flutter-feed-app)
 
-[flutter_shopping_app](https://github.com/ishaileshmishra/flutter_shopping_app)
+[flutter_shopping_app](https://github.com/app-techsolutions/flutter_shopping_app)
 
-[instagram_ui](https://github.com/ishaileshmishra/instagram_ui)
+[instagram_ui](https://github.com/app-techsolutions/instagram_ui)
 
-[flutter_developer_portfolio](https://github.com/ishaileshmishra/flutter_developer_portfolio)
+[flutter_developer_portfolio](https://github.com/app-techsolutions/flutter_developer_portfolio)
 
-[instagram_reels_flutter](https://github.com/ishaileshmishra/instagram_reels_flutter)
+[instagram_reels_flutter](https://github.com/app-techsolutions/instagram_reels_flutter)
 
-[flutter_shopping_app](https://github.com/ishaileshmishra/flutter_shopping_app)
+[flutter_shopping_app](https://github.com/app-techsolutions/flutter_shopping_app)
 
-[flutter_news_feed_app](https://github.com/ishaileshmishra/flutter-news-feed-app)
+[flutter_news_feed_app](https://github.com/app-techsolutions/flutter-news-feed-app)
 
-[flutter-ecommerce_cake_app](https://github.com/ishaileshmishra/flutter-ecommerce-cake-app)
+[flutter-ecommerce_cake_app](https://github.com/app-techsolutions/flutter-ecommerce-cake-app)
     
-[flutter_inventry_app](https://github.com/ishaileshmishra/flutter-inventry-app)
+[flutter_inventry_app](https://github.com/app-techsolutions/flutter-inventry-app)
 
-[portfolio_app](https://github.com/ishaileshmishra/portfolio-app)
+[portfolio_app](https://github.com/app-techsolutions/portfolio-app)
 
 
 ## ᗩᑭI IᑎᖴOᖇᗰᗩTIOᑎ (ᑌᑎᗪEᖇ ᗪEᐯEᒪOᑭᗰEᑎT)
@@ -44,7 +44,7 @@
 Need some help? Drop a message to me
 <table>
     <tr>
-        <td>mshaileshr@gmail.com</td>
+        <td>support@app-techsolutions.com</td>
     </tr>
 </table>
 
@@ -54,4 +54,4 @@ Need some help? Drop a message to me
     </tr>
 </table>
 
-[Click To Download](https://github.com/ishaileshmishra/jin_ecomm/blob/master/assets/apk/app-release.apk?raw=true)
+[Click To Download](https://github.com/app-techsolutions/jin_ecomm/blob/master/assets/)
